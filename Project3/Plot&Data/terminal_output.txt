@@ -1,0 +1,20 @@
+N: 51
+Gauss-Legendre: 0.190477
+Closed Form: 0.192766
+Computation time: 687.768
+
+N: 16
+Gauss-Laguerre: 0.190113
+Closed Form: 0.192766
+Computation time: 2.42029
+TEST SUCCESSFUL
+
+N: 20000000
+Montecarlo (BF): 0.190583
+Sigma: 0.00210535
+Computation time: 1.69089
+
+N: 70000
+Montecarlo (IS): 0.190443
+Sigma: 0.00365853
+Computation time: 0.022246
